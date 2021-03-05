@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://SaraVieira.github.io/csb-4p8s2/static/js/main.13bf13b9.chunk.js",
+    "main.js.map": "https://SaraVieira.github.io/csb-4p8s2/static/js/main.13bf13b9.chunk.js.map",
+    "runtime-main.js": "https://SaraVieira.github.io/csb-4p8s2/static/js/runtime-main.d692fffc.js",
+    "runtime-main.js.map": "https://SaraVieira.github.io/csb-4p8s2/static/js/runtime-main.d692fffc.js.map",
+    "static/js/2.027935cc.chunk.js": "https://SaraVieira.github.io/csb-4p8s2/static/js/2.027935cc.chunk.js",
+    "static/js/2.027935cc.chunk.js.map": "https://SaraVieira.github.io/csb-4p8s2/static/js/2.027935cc.chunk.js.map",
+    "index.html": "https://SaraVieira.github.io/csb-4p8s2/index.html",
+    "static/js/2.027935cc.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-4p8s2/static/js/2.027935cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d692fffc.js",
+    "static/js/2.027935cc.chunk.js",
+    "static/js/main.13bf13b9.chunk.js"
+  ]
+}
